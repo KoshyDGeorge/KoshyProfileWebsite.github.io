@@ -7,13 +7,10 @@
 }
 
 .header-links{
-  height: 20vh;
+  height: 100%;
   width: 100%;
-  
   color: darkgoldenrod;
   background-color: #F7F7F7;
-  
- 
   padding-left: 5%;
   padding-right: 5%;
  
